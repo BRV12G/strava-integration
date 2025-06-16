@@ -1,0 +1,12 @@
+
+@import "tailwindcss";
+
+/* Calendar overrides - using default Tailwind colors */
+.rbc-event {
+  background-color: rgb(251 146 60) !important; /* orange-400 */
+  border: none !important;
+}
+
+.rbc-today {
+  background-color: rgb(243 244 246); /* gray-100 */
+}
