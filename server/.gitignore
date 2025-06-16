@@ -26,3 +26,5 @@ temp/
 .idea/
 *.swp
 *.swo
+
+config/
